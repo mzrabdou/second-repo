@@ -1,0 +1,21 @@
+.parent {
+    list-style-type: none;
+    margin: auto;
+    width: 80%;
+}
+.parent li {
+     background-color: #eee;
+     padding: 1px;
+     margin: 20px;
+
+}
+.parent li li {
+    background-color: white;
+}
+.css {
+    list-style-type: upper-roman;
+}
+.js {
+    list-style-position: inside;
+    padding: 0;
+}
